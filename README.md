@@ -13,6 +13,9 @@ The main focus of this year will be the development of a web application for upl
 - Each song is stored in a database.
 - The endpoint /api/songs provides the caller with all songs available in the database.
 
+### Hint
+- If you run into the CORS issue, try to use the annotation @CrossOrigin on your repository.
+
 ## User Story 2
 *As a consumer I want to see a list of all available songs, so that I can pick the one that suits me the most.*
 
