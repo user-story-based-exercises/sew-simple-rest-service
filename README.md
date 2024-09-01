@@ -23,7 +23,3 @@ The main focus of this year will be the development of a web application for upl
 - A VueJs app, which displays the songs from the REST api, is available.
 - Each song is displayed using a song-component.
 - The properties for each song are displayed.
-
-#### Links
-- https://github.com/franzstimpfl/spring-boot-vuejs-template
-- https://my.skilldisplay.eu/en/skillset/610
